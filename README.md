@@ -24,7 +24,8 @@ This project focuses on classifying images of school lunches served in Taiwanese
 
 -  **Top-1 Accuracy (Soft Voting):** `79.11%`
 -  **Top-5 Accuracy:** `97.15%`
-  ![Confusion Matrix]([https://i.imgur.com/abc123.png](https://github.com/TsungLinYang/Dish-Classification/blob/main/confusion_matrix.png))
+<img src="https://raw.githubusercontent.com/TsungLinYang/Dish-Classification/main/confusion_matrix.png" alt="Confusion Matrix" width="400"/>
+
 
 
   

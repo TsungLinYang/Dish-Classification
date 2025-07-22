@@ -22,10 +22,9 @@ This project focuses on classifying images of school lunches served in Taiwanese
 
 ##  Evaluation Metrics
 
-- ✅ **Top-1 Accuracy (Soft Voting):** `79.11%`
-- ✅ **Top-5 Accuracy:** `97.15%`
-- 🔍 Confusion matrix included for misclassification analysis
+-  **Top-1 Accuracy (Soft Voting):** `79.11%`
+-  **Top-5 Accuracy:** `97.15%`
+  ![Confusion Matrix]([https://i.imgur.com/abc123.png](https://github.com/TsungLinYang/Dish-Classification/blob/main/confusion_matrix.png))
 
-Example Confusion Matrix (ResNet50 + DenseNet121):
 
   
